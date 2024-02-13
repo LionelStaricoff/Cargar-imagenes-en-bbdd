@@ -23,4 +23,6 @@ foto MEDIUMBLOB NOT NULL
 
 #
 <p>Aplicacion creada para mostrar como hay que transformar una imagen traida desde un input para guardarla en la base de datos y traerla de regreso para mostrarla en una ventana</p>
+
+<h2><a href="https://youtu.be/F8bjVnesEO8"> Mira como funciona: <img src="https://github.com/LionelStaricoff/conversor/blob/main/youtube.png?raw=true"  alt="enlace a youtube" width="100" height="100"> </a></h2> 
 </div>
